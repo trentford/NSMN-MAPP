@@ -33,6 +33,9 @@ R.Lonlim = [-130, -60];
 R.ColumnsStartFrom = 'north';
 R.RowsStartFrom = 'west';
 
+%Go Salukis!
+yell = 'Go Salukis'
+
 soilm = load('G:\Research-Backup\MAPP Drought\Remote Sensing\ECV\ECV_VWC_1998_2016.mat');
 soilm = soilm.soilm;
 
